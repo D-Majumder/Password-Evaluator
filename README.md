@@ -17,8 +17,8 @@ This password evaluator is a Python script designed to assess the strength of us
 No third-party dependencies are required — the script uses only Python's standard library (`re`).
 
 ```bash
-git clone https://github.com/D-Majumder/Password-Evaluator.git
-cd Password-Evaluator
+git clone https://github.com/D-Majumder/password-evaluator.git
+cd password-evaluator
 python "Password Evaluate.py"
 ```
 
